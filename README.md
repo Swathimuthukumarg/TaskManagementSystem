@@ -129,4 +129,4 @@ src/
 
 ## API Flow Diagram
 
-Refer `docs/flow-diagram.png` for login → create task flow.
+Refer `API Sequential Flow Diagram.png` for login → create task flow.
