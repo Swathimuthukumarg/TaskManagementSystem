@@ -68,7 +68,7 @@ A RESTful Task Management API built with **Node.js**, **TypeScript**, **PostgreS
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Swathimuthukumarg/nodeProject.git
+git clone https://github.com/Swathimuthukumarg/TaskManagementSystem.git
 cd nodeProject
 
 # 2. Install dependencies
